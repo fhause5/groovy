@@ -1,5 +1,5 @@
 
-package devops.jenkins.globalVariables
+package devops.jenkins
 
 
 
