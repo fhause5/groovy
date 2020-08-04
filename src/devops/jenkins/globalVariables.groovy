@@ -1,5 +1,5 @@
 
-package devops.jenkins
+package devops.jenkins.globalVariables
 
 DB_SID='TRDSRV2'
 DB_ENDPOINT='real1.cx7phmaycyde.eu-west-1.rds.amazonaws.com',
