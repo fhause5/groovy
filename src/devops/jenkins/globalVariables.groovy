@@ -4,6 +4,9 @@ package devops.jenkins.globalVariables
 
 
 class globalVariables {
+    void test () {
+        println("test")
+    }
     void DB_SID(){
         DB_SID='TRDSRV2'
         return DB_SID
