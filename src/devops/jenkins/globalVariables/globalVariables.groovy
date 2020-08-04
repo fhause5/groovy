@@ -7,7 +7,7 @@ class globalVariables {
     void test () {
         println("test")
     }
-    void DB_SID(){
+    void DB_SID() {
         DB_SID='TRDSRV2'
         return DB_SID
     }
@@ -23,7 +23,6 @@ class globalVariables {
         DB_PROTOCOL='tcp'
         return DB_PROTOCOL
     }
-    
 }
 
 
