@@ -12,7 +12,7 @@ class globalVariables {
         return DB_SID
     }
     void DB_ENDPOINT() {
-        DB_ENDPOINT='real1.cx7phmaycyde.eu-west-1.rds.amazonaws.com'
+        DB_ENDPOINT='real1.eu-west-1.rds.amazonaws.com'
         return DB_ENDPOINT
     }
     void DB_PORT() {
