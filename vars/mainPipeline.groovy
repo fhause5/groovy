@@ -1,3 +1,6 @@
+import src.devops.jenkins.globalVariables;
+
+test = ConfigParser()
 def call() {
     def context = [:]
     node("master") {
